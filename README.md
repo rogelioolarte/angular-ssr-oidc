@@ -17,6 +17,7 @@ This will compile your project and store the build artifacts in the `dist/` dire
 
 ## What are we using?
 
+[base implementation of oidc](https://github.com/zitadel/zitadel-angular)
 [angular-oauth2-oidc](https://www.npmjs.com/package/angular-oauth2-oidc)
 [new use of server.ts](https://github.com/pj-labs/angular-ssr-docker)
 [ngx-cookie-service-ssr](https://www.npmjs.com/package/ngx-cookie-service-ssr)
